@@ -5,8 +5,8 @@
 
 ## 📍 Data Analyst | Based in Paris, France 🇫🇷  
 
-* 🎓 **Master’s degree in Data Science** – Université Gustave Eiffel | ESIEE
 * 💼 **Data Analyst** - @GroupeAtlantic
+* 🎓 **Master’s degree in Data Science** – Université Gustave Eiffel | ESIEE
   
 ✨  Passion for Data Sciences, Data Visualization, Business Intelligence, & Machine Learning ✨
 
