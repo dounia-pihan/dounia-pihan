@@ -3,28 +3,28 @@
 
 ---
 
-## 📍 Data Analyst | Based in Paris, France 🇫🇷  
+## 📊 Data Analyst | Analytics Engineer | Based in Paris, France 🇫🇷  
 
 * 💼 **Data Analyst** - @GroupeAtlantic
-* 🎓 **Master’s degree in Data Science** – Université Gustave Eiffel | ESIEE
+* 🎓 **Master’s degree in Data Science** – Université Gustave Eiffel | ESIEE Paris
   
-✨  Passion for Data Sciences, Data Visualization, Business Intelligence, & Machine Learning ✨
+✨  Passionate about Data Analytics, Analytics Engineering, Business Intelligence, AI & Machine Learning 
 
 ---
 
-## ⚡ Technical Highlights  
+## 🛠 Tech Stack
 
-- **Data Visualization** : Power BI (DAX, RLS, Apps) | Python (matplotlib, seaborn, plotly)
-- **Programming & Data Modeling** : Python (pandas, scikit-learn, matplotlib) | SQL | Power BI
-- **Machine Learning** : regression, classification, clustering, PCA  
-- **ETL & Automation** : Power Query (data cleaning, integration, transformation) | Excel (advanced formulas, VBA macros)
+**Analytics & BI**
+Power BI • DAX • Power Query • Dashboard Design
 
----
+**Analytics Engineering**
+SQL • PostgreSQL • dbt • ETL/ELT • Data Modeling
 
-## 🛠️ Languages and Tools  
+**Programming & Data Analysis**
+Python (Pandas, NumPy, Matplotlib, Streamlit, DuckDB)
 
-**Python Data Tools**  
-🐍 Python | 📓 Jupyter | 📊 Matplotlib | 📈 Plotly   
+**AI & Machine Learning**
+Scikit-Learn • XGBoost
 
 ---
 
